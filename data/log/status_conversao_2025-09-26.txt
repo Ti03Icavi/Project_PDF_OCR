@@ -1,0 +1,10 @@
+NFD 12537.pdf: sucesso
+NFE 106170.pdf: sucesso
+NFE 109194.pdf: sucesso
+NFE 10969.pdf: sucesso
+NFE 1097268.pdf: sucesso
+NFE 11656.pdf: sucesso
+NFE 1178694.pdf: sucesso
+NFE 118436.pdf: sucesso
+NFE 12091.pdf: sucesso
+NFE 121241.pdf: sucesso

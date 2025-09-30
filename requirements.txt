@@ -1,0 +1,8 @@
+ocrmypdf
+pdfplumber
+pandas
+pytesseract
+pdf2image
+PyMuPDF
+langchain
+openai
